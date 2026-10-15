@@ -251,7 +251,7 @@ If your `requirements.txt` specifies compatible versions, use those versions for
 
 A walkthrough of the project covering the dataset, text preprocessing, deep learning architectures, model evaluation, and key findings.
 
-**▶️ [Watch the Project Explanation Video](https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing)**
+**▶️ https://drive.google.com/file/d/1RpW1M-OW9Mr1UfWoWHG33GZ0IehrfXjU/view?usp=sharing**
 
 
 
